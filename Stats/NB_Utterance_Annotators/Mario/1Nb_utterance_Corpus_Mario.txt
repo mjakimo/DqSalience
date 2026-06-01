@@ -1,0 +1,29 @@
+FLD_clean.txt:{'FLDPSUNK:': 23, 'FLDPS000:': 64, 'FLDPS001:': 13, 'FLDPS002:': 7, 'FLDPS003:': 8, 'FLDPS004:': 9, 'FLDPS005:': 5, 'FLDPS006:': 5, 'FLDPS007:': 2, 'FLDPS008:': 4}
+
+HDJ_clean.txt:{'PS22G:': 145, 'PS22H:': 138}
+
+HE8_clean.txt:{'PS2UP:': 219, 'PS2UR:': 218}
+
+HF3_clean.txt:{'PS2Y5:': 92, 'PS2Y6:': 88}
+
+HV5_clean.txt:{'PS3F3:': 58, 'PS3F4:': 57}
+
+J9D_clean.txt:{'J9DPSUNK:': 163, 'PS3V9:': 113, 'PS3VA:': 5, 'PS3VB:': 7, 'PS3VC:': 11, 'PS3VD:': 16, 'PS3VE:': 12, 'PS3VF:': 5, 'PS3VG:': 7, 'PS3VH:': 10}
+
+K69_clean.txt:{'PS5BD:': 95, 'PS5BE:': 95}
+
+KDA_011605_clean.txt:{'PS1GE:': 19, 'PS1GF:': 18}
+
+KRF_fixed_1_clean.txt:{'PS5RL:': 10, 'PS5RM:': 9}
+
+KRG_fixed_9_clean.txt:{'KRGPSUNK:': 18, 'PS5S7:': 17}
+
+KRG_fixed_13_clean.txt:{'PS5SC:': 10, 'PS5SE:': 9}
+
+KRH_fixed_16_clean.txt:{'PS5T8:': 17, 'PS5TE:': 16}
+
+KRH_fixed_23_clean.txt:{'PS5T8:': 9, 'PS5TC:': 8}
+
+KRH_fixed_34_clean.txt:{'PS5TC:': 9, 'PS5TF:': 8}
+
+KS0_clean.txt:{'PS6H7:': 1, 'PS6H8:': 16, 'PS6H9:': 53, 'PS6HA:': 8, 'PS6HB:': 3, 'PS6HC:': 21, 'PS6HD:': 8, 'PS6HE:': 23, 'PS6HF:': 20, 'PS6HG:': 16, 'PS6HH:': 6, 'PS6HJ:': 1, 'PS6HK:': 13, 'PS6HL:': 3}

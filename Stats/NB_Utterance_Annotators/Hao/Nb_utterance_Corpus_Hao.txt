@@ -1,0 +1,30 @@
+FL4_clean.txt:{'FL4PSUNK:': 52, 'FL4PS000:': 96, 'FL4PS001:': 13, 'FL4PS002:': 11, 'FL4PS003:': 9, 'FL4PS004:': 7, 'FL4PS005:': 7, 'FL4PS006:': 15, 'FL4PS007:': 11, 'FL4PS008:': 6}
+
+FL7_clean.txt:{'FL7PSUNK:': 27, 'FL7PS000:': 117, 'FL7PS001:': 11, 'FL7PS002:': 21, 'FL7PS003:': 19, 'FL7PS004:': 18, 'FL7PS005:': 9, 'FL7PS006:': 8, 'FL7PS007:': 9, 'FL7PS008:': 5}
+
+FLH_clean.txt:{'FLHPSUNK:': 34, 'FLHPS000:': 136, 'FLHPS001:': 12, 'FLHPS002:': 14, 'FLHPS003:': 12, 'FLHPS004:': 11, 'FLHPS005:': 11, 'FLHPS006:': 33, 'FLHPS007:': 13, 'FLHPS008:': 14}
+
+H5G_clean.txt:{'PS22C:': 411, 'PS22D:': 409}
+
+HES_clean.txt:{'PS2W0:': 51, 'PS2W1:': 49}
+
+HV1_clean.txt:{'PS3E3:': 11, 'HV1PSUNK:': 153, 'PS3E4:': 90, 'PS3E5:': 26, 'PS3E6:': 47, 'PS3E7:': 1, 'PS3E8:': 25, 'PS3E9:': 25, 'PS3EA:': 9, 'PS3EB:': 7}
+
+JN7_clean.txt:{'JN7PSUNK:': 100, 'PS4BS:': 146, 'PS4BP:': 7, 'PS4BR:': 5, 'PS4BT:': 52, 'PS4BU:': 82}
+
+KBD_064002_clean.txt:{'PS03W:': 15, 'PS045:': 14}
+
+KBK_002334_clean.txt:{'PS101:': 20, 'PS05X:': 20}
+
+KC6_055705_clean.txt:{'KC6PSUNK:': 1, 'PS0BA:': 15, 'PS0BF:': 10, 'PS0BG:': 16, 'PS0BB:': 1}
+
+KC6_055905_clean.txt:{'PS0BA:': 24, 'PS0BG:': 6, 'PS0BH:': 12, 'PS0BC:': 10, 'PS0BF:': 5, 'KC6PSUGP:': 9, 'PS0BJ:': 1, 'KC6PSUNK:': 3}
+
+KCE_029701_clean.txt:{'PS0EH:': 24, 'PS0ED:': 21, 'KCEPSUNK:': 8, 'PS0EE:': 5, 'PS0EB:': 12}
+
+KD1_034501_clean.txt:{'PS0JA:': 21, 'PS0JD:': 18, 'PS0JE:': 2, 'KD1PSUNK:': 11, 'PS0JB:': 5, 'PS0JF:': 4}
+
+KLV_clean.txt:{'KLVPSUNK:': 486, 'PS3SF:': 189, 'PS3SG:': 31, 'PS3SH:': 35, 'PS3SJ:': 9, 'PS3SK:': 46, 'PS3SL:': 33, 'PS3SM:': 4, 'PS3SN:': 9}
+
+KRL_fixed_3_clean.txt:{'PS5VN:': 85, 'PS5VU:': 50, 'PS5VV:': 15, 'KRLPSUNK:': 11, 'PS5VL:': 13, 'PS5VM:': 8}
+

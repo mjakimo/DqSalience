@@ -1,0 +1,15 @@
+FLD:{4927 w-units; 265 s-units, 140 u-units, number of speakers : 9, speakers = 'FLDPSUNK:': 23, 'FLDPS000:': 64, 'FLDPS001:': 13, 'FLDPS002:': 7, 'FLDPS003:': 8, 'FLDPS004:': 9, 'FLDPS005:': 5, 'FLDPS006:': 5, 'FLDPS007:': 2, 'FLDPS008:': 4,}
+HDJ:{8258 w-units; 399 s-units, 283 u-units, number of speakers : 2, speakers = 'PS22G:': 145, 'PS22H:': 138}
+HE8:{6010 w-units; 717 s-units, 437 u-units, number of speakers : 2, speakers = 'PS2UP:': 219, 'PS2UR:': 218}
+HF3:{10059 w-units; 880 s-units, 180 u-units, number of speakers : 2, speakers = 'PS2Y5:': 92, 'PS2Y6:': 88}
+HV5:{4045 w-units; 264 s-units, 115 u-units, number of speakers : 2, speakers = 'PS3F3:': 58, 'PS3F4:': 57}
+J9D:{15461 w-units; 818 s-units, 349 u-units, number of speakers : 10, speakers = 'J9DPSUNK:': 163, 'PS3V9:': 113, 'PS3VA:': 5, 'PS3VB:': 7, 'PS3VC:': 11, 'PS3VD:': 16, 'PS3VE:': 12, 'PS3VF:': 5, 'PS3VG:': 7, 'PS3VH:': 10}
+K69:{8427 w-units; 266 s-units, 190 u-units, number of speakers : 2, speakers = 'PS5BD:': 95, 'PS5BE:': 95}
+KDA_011605:{8807 w-units; 8807 s-units, 37 u-units, number of speakers : 2, speakers = 'PS1GE:': 19, 'PS1GF:': 18}
+KRF_fixed_1:{2372 w-units; 69 s-units, 19 u-units, number of speakers : 2, speakers = 'PS5RL:': 10, 'PS5RM:': 9}
+KRG_fixed_9:{2255 w-units; 80 s-units, 35 u-units, number of speakers : 2, speakers = 'KRGPSUNK:': 18, 'PS5S7:': 17}
+KRG_fixed_13:{2461 w-units; 82 s-units, 19 u-units, number of speakers : 2, speakers = 'PS5SC:': 10, 'PS5SE:': 9}
+KRH_fixed_16:{2386 w-units; 84 s-units, 33 u-units, number of speakers : 2, speakers = 'PS5T8:': 17, 'PS5TE:': 16}
+KRH_fixed_23:{2428 w-units; 88 s-units, 17 u-units, number of speakers : 2, speakers = 'PS5T8:': 9, 'PS5TC:': 8}
+KRH_fixed_34:{2321 w-units; 77 s-units, 17 u-units, number of speakers : 2, speakers = 'PS5TC:': 9, 'PS5TF:': 8}
+KS0:{11688 w-units; 482 s-units, 192 u-units, number of speakers : 14, speakers = 'PS6H7:': 1, 'PS6H8:': 16, 'PS6H9:': 53, 'PS6HA:': 8, 'PS6HB:': 3, 'PS6HC:': 21, 'PS6HD:': 8, 'PS6HE:': 23, 'PS6HF:': 20, 'PS6HG:': 16, 'PS6HH:': 6, 'PS6HJ:': 1, 'PS6HK:': 13, 'PS6HL:': 3}
